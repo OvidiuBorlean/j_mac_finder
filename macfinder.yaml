@@ -1,0 +1,5 @@
+device : juniper
+c_username : testuser
+c_password : 
+mac-address : 00:00:00:00:00:00
+delay : 3
